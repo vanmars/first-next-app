@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js Tutorial - Ninja List
+14 February 2021
+
+Vanessa Stewart
+
+## Description
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). 
+
+This is a basic contact list project used to practice creating a Next.js app. It comes from a tutorial by [Net Ninja](https://www.youtube.com/watch?v=A63UxsQsEbU&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=1). This tutorial uses [JSON.placeholder](https://jsonplaceholder.typicode.com/) to generate fake JSON data to practice fetching data from a third-party API. (An awesome resource for testing!)
 
 ## Getting Started
 
